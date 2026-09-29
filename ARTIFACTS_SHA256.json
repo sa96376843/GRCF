@@ -1,0 +1,62 @@
+{
+  "reproducibility/code/build_integrated_assets.py": {
+    "bytes": 6228,
+    "sha256": "0d37a34ed8c877469a8359205a235ebe84ce8fbc909a63f535f340d0f7b4ef9a"
+  },
+  "reproducibility/code/grcf_lib.py": {
+    "bytes": 28797,
+    "sha256": "a80e6e3ca14441b468d90f68646b4b9c22acc7fbcce70a1922650bc819de536a"
+  },
+  "reproducibility/code/run_experiments.py": {
+    "bytes": 18921,
+    "sha256": "ef990f8b7a30e9ac64e2db7056fcac1779b854e0aaecda0b15753c02dc153d1e"
+  },
+  "reproducibility/data/raw/mars_explicit_fr.tab": {
+    "bytes": 3340479,
+    "sha256": "573197b5be4c8248da734e1aacfbd8517c8af4c4df321ac3dca091b6599326c0"
+  },
+  "reproducibility/data/raw/mars_implicit_en.tab": {
+    "bytes": 696716,
+    "sha256": "2921cc7b233d100b83bb3a435fdd5dd3b4ea7ae63cbedf0ce53728fdeded401f"
+  },
+  "reproducibility/data/raw/mars_items_fr.tab": {
+    "bytes": 4706088,
+    "sha256": "89ca4439eba3addfd434034fe7b0385eb73786a3a53033845c07557d3281291e"
+  },
+  "reproducibility/data/raw/mars_users_fr.tab": {
+    "bytes": 1609541,
+    "sha256": "051d204873fa0874d7d1da422b040ebbe9043d822dac8b7612aa6d0ee45f751d"
+  },
+  "reproducibility/data/raw/xuetangx/data.csv": {
+    "bytes": 24952993,
+    "sha256": "e7f656aa25bcd022a03bfa460af241e3659a0953da8fe3c91fe8806ab862c691"
+  },
+  "reproducibility/data/raw/xuetangx/mooc.all.rating": {
+    "bytes": 5712687,
+    "sha256": "3363bceb9402d22dc8d6717ad5339ee328375809696870dafa7716e5d9d6d80d"
+  },
+  "reproducibility/data/raw/xuetangx/mooc.test.negative": {
+    "bytes": 19560175,
+    "sha256": "5528c216f926ec051de9ae6e1dbfb8efe7b6b12af6ea69b6433ef1f869efa916"
+  },
+  "reproducibility/data/raw/xuetangx/mooc.test.rating": {
+    "bytes": 591413,
+    "sha256": "8a991eb1ed7c8acd1637d48cfec775a5459b8c71d1db89ff161f176095d61fa0"
+  },
+  "reproducibility/data/raw/xuetangx/mooc.train.rating": {
+    "bytes": 5121274,
+    "sha256": "0904d7b33aaa85e426d24e2e2e3a0b04ddeda950170563f1097c0a054b204c3e"
+  },
+  "reproducibility/data/raw/xuetangx/Readme": {
+    "bytes": 559,
+    "sha256": "e719a876b5fee070637117150df5bee2cced846adf354787eb8a945fd710252b"
+  },
+  "reproducibility/results/ablation.json": {
+    "bytes": 1064,
+    "sha256": "1a57edddf9abf4c92b2a344e08ab9cd116faaf0fafc5865cf4a415e2dd41db53"
+  },
+  "reproducibility/results/main.json": {
+    "bytes": 9555,
+    "sha256": "0fd8992627f43752370e735578052b73211d785c03a1b604f97fa9d91e109546"
+  }
+}

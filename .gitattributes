@@ -1,0 +1,9 @@
+* text=auto
+*.py -text
+*.md text eol=lf
+*.json -text
+*.csv -text
+*.tab -text
+*.rating -text
+*.negative -text
+reproducibility/data/raw/xuetangx/Readme -text
